@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\DzCsharpSQL\DzCsharpSQL\bin\Debug\DzCsharpSQL.exe.config
+C:\Users\User\source\repos\DzCsharpSQL\DzCsharpSQL\bin\Debug\DzCsharpSQL.exe
+C:\Users\User\source\repos\DzCsharpSQL\DzCsharpSQL\bin\Debug\DzCsharpSQL.pdb
+C:\Users\User\source\repos\DzCsharpSQL\DzCsharpSQL\obj\Debug\DzCsharpSQL.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\DzCsharpSQL\DzCsharpSQL\obj\Debug\DzCsharpSQL.Form1.resources
+C:\Users\User\source\repos\DzCsharpSQL\DzCsharpSQL\obj\Debug\DzCsharpSQL.Properties.Resources.resources
+C:\Users\User\source\repos\DzCsharpSQL\DzCsharpSQL\obj\Debug\DzCsharpSQL.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\DzCsharpSQL\DzCsharpSQL\obj\Debug\DzCsharpSQL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DzCsharpSQL\DzCsharpSQL\obj\Debug\DzCsharpSQL.exe
+C:\Users\User\source\repos\DzCsharpSQL\DzCsharpSQL\obj\Debug\DzCsharpSQL.pdb
